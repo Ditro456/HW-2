@@ -1,0 +1,1 @@
+mnist 변경하였습니다. PKL 파일 삭제후  FASHION  MINST 파일로 변경후에 실행하였습니다.
